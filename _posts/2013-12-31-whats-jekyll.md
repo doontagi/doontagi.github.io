@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What's Jekyll?
+title: 힘내라곰!
 # date element overrides date in title format.
-date: 2015-1-31
+date: 2015-12-26
 tag:
   - common_tag
   - other_tag
