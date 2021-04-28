@@ -1,0 +1,16 @@
+I"�<h3 id="원인--패키지와-설치된-node-sass-사이의-버전이-맞지-않아-발생">원인 : 패키지와 설치된 node-sass 사이의 버전이 맞지 않아 발생</h3>
+
+<h3 id="solution--node-sass를-재설치-해주면-된다">Solution : node-sass를 재설치 해주면 된다.</h3>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm rebuild node-sass
+</code></pre></div></div>
+
+<p>위의 명령어로 재설치를 하는데, 내 환경의 경우 재설치 시에도 오류가 발생했다. node 자체의 버전이 패키지와 맞지 않아서였다. 이를 위해 npm 명령어를 통해 다른 노드 버전을 설치하고 기존 버전을 삭제했다.</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>npm <span class="nb">install</span> <span class="nt">-g</span> n
+n 5.6.0
+&lt;기존 버전 삭제 후&gt;
+npm rebuild node-sass
+</code></pre></div></div>
+
+:ET

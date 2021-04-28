@@ -1,0 +1,12 @@
+I"H<p>Sorry! The page you were trying to view does not exist.</p>
+<p>Perhaps you may have error while typing web address. If not, you may tweet me to fix missing link. Thanks!</p>
+<div class="text-center">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="" data-size="large" data-dnt="true">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+
+<p class="text-center">You may also visit <a href="https://doontagi.github.io//tags">tags</a> or <a href="https://doontagi.github.io//archive">archive</a> page to browse website contents.</p>
+
+<hr class="gh" />
+
+:ET

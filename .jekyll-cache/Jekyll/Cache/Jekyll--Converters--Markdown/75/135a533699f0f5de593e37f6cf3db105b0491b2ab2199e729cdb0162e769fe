@@ -1,0 +1,13 @@
+I"?<p class="text-center">You may also visit <a href="https://doontagi.github.io//tags">tags</a> or <a href="https://doontagi.github.io//archive">archive</a> page to browse website contents.</p>
+
+<p class="text-center"><a href="javascript:goBack()" class="social-icons" title="Return to previous page"><i class="fa fa-arrow-circle-left fa-2x"></i></a></p>
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+
+<p>This page will serve search results if Google Custom Search key is set in <code class="language-plaintext highlighter-rouge">_config.yml</code></p>
+
+:ET

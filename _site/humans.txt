@@ -1,0 +1,12 @@
+/* TEAM */
+Primary Contact: foo
+Site: https://doontagi.github.io//about/
+Twitter: https://twitter.com/
+
+/* THANKS */
+Design Contributors: https://doontagi.github.io//disclosure/
+
+/* SITE */
+Last Updated: 2021/01/25
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Sass

@@ -1,0 +1,61 @@
+I"�<h2 id="lanyon-plus"><a href="https://github.com/dyndna/lanyon-plus">lanyon-plus</a></h2>
+
+<p>Based on Jekyll theme: <a href="http://lanyon.getpoole.com">Lanyon</a> by <a href="https://github.com/mdo"><strong>Mark Otto</strong></a></p>
+
+<ul>
+  <li>add-ons by <a href="http://sbamin.com">Samir Amin</a></li>
+  <li><a href="https://doontagi.github.io//disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi">Site features</a></li>
+  <li>License: Open sourced under the <a href="http://sbamin.com/disclosure/#theme-major-credit--license">MIT license</a>.</li>
+</ul>
+
+<p>Maximum four posts on front page where first two posts are featured, and remaining are date sorted.</p>
+
+<p>Twitter stream will show up here if <code class="language-plaintext highlighter-rouge">twitter_widget_id</code> is present is <code class="language-plaintext highlighter-rouge">_config.yml</code>. <a href="http://sbamin.com">Demo</a></p>
+
+<div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="https://doontagi.github.io//blog/2013/01/01/example_content/">
+        Example content
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2013-01-01"><i class="fa fa-calendar" title="Date published"> 01 Jan 2013</i> <a href="https://doontagi.github.io//featured" title="Featured posts"><i class="social-icons" title="Featured"></i></a></span>
+
+ Example content from lanyon. If page description is more than 140 words, it will be shown as post summary on home page and blog index else post excerpt will be shown. Same rule is for html meta description: &gt;140 words in description or first 50 words of posts will be shown as summary. Page excerpt supports markdown formatted summary.
+ <a href="https://doontagi.github.io//blog/2013/01/01/example_content/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  <hr class="transp" />
+  
+</div>
+
+<div class="posts">
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="https://doontagi.github.io//blog/2015/12/26/whats-jekyll/">
+        힘내라곰!
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2015-12-26"><i class="fa fa-calendar" title="Date published"> 26 Dec 2015</i></span>
+
+ <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/mojombo/jekyll/blob/master/README.markdown">the project’s readme</a>:
+
+ <a href="https://doontagi.github.io//blog/2015/12/26/whats-jekyll/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  <hr class="transp" />
+  
+  
+  
+  
+</div>
+<h3 class="post-title">
+<div class="pagination" style="margin: 0.5rem;">
+    <a class="pagination-item older" href="https://doontagi.github.io//blog"><i class="fa fa-edit"> Blog</i></a>
+    <a class="pagination-item newer" href="https://doontagi.github.io//tags"><i class="fa fa-tags"> Tags</i></a>
+</div>
+</h3>
+:ET

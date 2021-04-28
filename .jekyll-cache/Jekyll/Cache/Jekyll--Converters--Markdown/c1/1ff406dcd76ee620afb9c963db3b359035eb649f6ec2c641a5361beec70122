@@ -1,0 +1,22 @@
+I"c<section id="archive">
+  <h3>This year's posts</h3>
+  
+    
+      <ul class="post-list">
+    
+      <li><a href="https://doontagi.github.io//blog/2015/12/26/whats-jekyll/">first<span class="entry-date"><time datetime="2015-12-26T00:00:00+09:00">Dec 26, 2015</time></span></a></li>
+  
+    
+      
+      
+      
+        </ul>
+        <h3>2013</h3>
+        <ul class="post-list">
+      
+    
+      <li><a href="https://doontagi.github.io//blog/2013/01/01/example_content/">Example content<span class="entry-date"><time datetime="2013-01-01T00:00:00+09:00">Jan 01, 2013</time></span></a></li>
+  
+  </ul>
+</section>
+:ET

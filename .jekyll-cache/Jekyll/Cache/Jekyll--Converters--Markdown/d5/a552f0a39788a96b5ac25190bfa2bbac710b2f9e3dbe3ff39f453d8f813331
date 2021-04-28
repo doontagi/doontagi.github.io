@@ -1,0 +1,34 @@
+I"£<table>
+  <thead>
+    <tr>
+      <th><i class="fa fa-twitter"></i></th>
+      <th style="text-align: left"><a href="https://twitter.com/">@</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i class="fa fa-envelope"></i></td>
+      <td style="text-align: left">foo<br />XYZ<br />1234 ABC ST<br />Washington, DC 11111</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><i class="fa fa-car"></i></td>
+      <td style="text-align: left"><a href="https://doontagi.github.io//directions">Driving directions</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><i class="fa fa-paper-plane"></i></td>
+      <td style="text-align: left">foo@xyz</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://twitter.com/share" class="twitter-share-button" data-via="" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a></p>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<p>Twitter stream will show up here if <code class="language-plaintext highlighter-rouge">twitter_widget_id</code> is present is <code class="language-plaintext highlighter-rouge">_config.yml</code></p>
+
+:ET

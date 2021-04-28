@@ -1,0 +1,41 @@
+I"<h2 class="text-center" id="-featured-posts"><i class="fa fa-paperclip" title="Featured"></i> <a href="https://doontagi.github.io//featured">Featured Posts</a></h2>
+
+<hr class="style17" style="margin:1.0rem 0;" />
+
+<ul class="slidetags">
+  
+    
+    <li style="font-size:136%"><a href="#common_tag">common_tag <span>2</span></a></li>
+  
+    
+    <li style="font-size:103%"><a href="#examples">examples <span>1</span></a></li>
+  
+    
+    <li style="font-size:103%"><a href="#other_tag">other_tag <span>1</span></a></li>
+  
+</ul>
+
+<h2 id="common_tag">common_tag</h2>
+<ul class="post-list">
+  
+  <li><a href="https://doontagi.github.io//blog/2015/12/26/whats-jekyll/">npm run build 시 os<span class="entry-date"><time datetime="2015-12-26T00:00:00+09:00">Dec 26, 2015</time></span></a></li>
+  
+  <li><a href="https://doontagi.github.io//blog/2013/01/01/example_content/">Example content<span class="entry-date"><time datetime="2013-01-01T00:00:00+09:00">Jan 01, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="examples">examples</h2>
+<ul class="post-list">
+  
+  <li><a href="https://doontagi.github.io//blog/2013/01/01/example_content/">Example content<span class="entry-date"><time datetime="2013-01-01T00:00:00+09:00">Jan 01, 2013</time></span></a></li>
+  
+  </ul>
+
+<h2 id="other_tag">other_tag</h2>
+<ul class="post-list">
+  
+  <li><a href="https://doontagi.github.io//blog/2015/12/26/whats-jekyll/">npm run build 시 os<span class="entry-date"><time datetime="2015-12-26T00:00:00+09:00">Dec 26, 2015</time></span></a></li>
+  
+  </ul>
+
+:ET

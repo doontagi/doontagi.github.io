@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foo</title>
+    <description>Foo's blog...</description>
+    <link>https://doontagi.github.io//</link>
+    <atom:link href="https://doontagi.github.io//rfeed.xml" rel="self" type="application/rss+xml" />
+    <updated>2021-01-25T21:04:39+09:00</updated>
+    <id>https://doontagi.github.io/</id>
+    <author>
+      <name>Hanul Lee</name>
+    </author>
+    
+  </channel>
+</rss>
